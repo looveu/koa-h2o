@@ -3,7 +3,7 @@
 var enrouten = require('koa-enrouten');
 // var koa = require('koa');
 // var app = koa();
-
+// import enrouten from 'koa-enrouten'
 
 exports = module.exports = function h2o(app) {
 	console.log(app,'app');
